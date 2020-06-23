@@ -9,6 +9,7 @@
 - [读研教育网](http://www.duyan.com.cn/feiquanrizhi/)
 - [读研教育网-在线咨询](https://chat2440.talk99.cn/chat/chat/p.do?_server=0&encrypt=1&c=20001812&f=10063485&g=10063878)
 - [非全日制-应用心理学](https://yz.chsi.com.cn/zsml/querySchAction.do?ssdm=44&dwmc=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6&mldm=&mlmc=&yjxkdm=0454&xxfs=&zymc=)
+- [中山大学-应用心理](http://psy.sysu.edu.cn/cat/131)
 
 ## Plan
 
